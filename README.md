@@ -1,8 +1,6 @@
 # EchoCP-An-Echocardiography-Dataset-in-Contrast-Transthoracic-Echocardiography-for-PFO-diagnosis
 Dataset: EchoCP: An Echocardiography Dataset in Contrast Transthoracic Echocardiography for Patent Foramen Ovale Diagnosis
 
-# ImageCHD-A-3D-Computed-TomographyImage-Dataset-for-Classification-of-Congenital-Heart-Disease
-
 A dataset of contrast transthoracic echocardiography, EchoCP, for patent foramen ovale diagnosis is published. 
 
 We present EchoCP, the first dataset for cTTE based PFO diagnosis. EchoCP contains both VM and rest echocardiography videos captured from 30 patients.
