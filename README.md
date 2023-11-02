@@ -12,6 +12,8 @@ Note that in the rest state, patients just relax and breathe normally. While in 
 The video is captured in the apical-4-chamber view and contains at least ten cardiac cycles.
 For the VM state, the action is performed three to five times during acquisition, and we selected the most representative one.
 
-**Please send emails to Prof. Yiyu Shi yshi4@nd.edu for the download link and the password of the dataset.**
-
 If you used our dataset, please consider to cite our paper in MICCAI 2021, Tianchen Wang, Zhihe Li, Shanshan Bi, Meiping Huang, Jiawei Zhang, Jian Zhuang, Yiyu Shi, Hongwen Fei, Xiaowei Xu, "ImageCHD: A 3D Computed Tomography Image Dataset for Classification of Congenital Heart Disease," in Proc. of Medical Image Computing and Computer Assisted Interventions (MICCAI), Online, 2021.
+
+**HIGHLIGHT** 20231101: We have deployed the dataset on Kaggle! https://www.kaggle.com/xiaoweixumedicalai/datasets
+
+Please send emails to xiao.wei.xu@foxmail.com for any questions.
